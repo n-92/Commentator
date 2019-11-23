@@ -47,7 +47,7 @@ class _MyHomePageState extends State<MyHomePage> {
           elevation: 100,
           title: Text(widget.title),
           flexibleSpace: Image(
-            image: NetworkImage('https://https://avatars2.githubusercontent.com/u/8834529?s=460&v=4'),
+            image: NetworkImage('https://avatars2.githubusercontent.com/u/8834529?s=460&v=4'),
             height: 70,
             alignment: Alignment.bottomRight,
             fit: BoxFit.fitHeight,
